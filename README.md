@@ -8,5 +8,7 @@ I'm a 17-yo developer set on making strictly open-source (MIT Licensed) projects
 As an artist I am also generally opposed to the training and usage of AI in any capacity, not so much for the tool itself but rather for the unethical practices that the people providing the tools engage with. Thus, I would like it if you didn't use this code as training data for LLMs or any other prediction algorithm. <sub>for all the good that will do</sub>
 
 ## Projects
-[Cobblemon: Fierce Competition](https://modrinth.com/datapack/cbmn-fierce)
-[Point Blank: Zombies](https://polytoria.com/places/23848)
+
+[<img src="https://github.com/8toplasm/portfolio/blob/main/images/fiercecomp_icon.png" alt="Cobblemon: Fierce Competition" style="width:200px;height:200px;">](https://modrinth.com/datapack/cbmn-fierce)
+[<img src="https://github.com/8toplasm/portfolio/blob/main/images/pointblank_icon.png" alt="Cobblemon: Fierce Competition" style="width:200px;height:200px;">](https://polytoria.com/places/23848)
+[Point Blank: Zombies]()

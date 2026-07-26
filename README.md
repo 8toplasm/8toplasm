@@ -9,5 +9,5 @@ As an artist I am also generally opposed to the training and usage of AI in any 
 
 ## Projects
 
-[<img src="https://github.com/8toplasm/portfolio/blob/main/images/fiercecomp_icon.png" alt="Cobblemon: Fierce Competition" style="width:200px;height:200px;">](https://modrinth.com/datapack/cbmn-fierce)
+[<img src="https://github.com/8toplasm/portfolio/blob/main/images/fiercecomp_icon.png" alt="Cobblemon: Fierce Competition" style="width:150px;height:150px;">](https://modrinth.com/datapack/cbmn-fierce)
 [<img src="https://github.com/8toplasm/portfolio/blob/main/images/pointblank_icon.png" alt="Point Blank" style="width:200px;height:110px;">](https://polytoria.com/places/23848)

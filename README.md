@@ -1,5 +1,5 @@
 # Welcome
-Scuffed, I know. I really should turn this into a Github Pages website but in the meantime it'll stay like this
+Waddup, this is my portfolio
 
 ## About
 The name's Bruno, I go by **Softie/Ecto** online.<br>

@@ -1,5 +1,5 @@
 # Welcome
-Waddup, this is my portfolio
+tis my  github!
 
 ## About
 The name's Bruno, I go by **Softie/Ecto** online.<br>
